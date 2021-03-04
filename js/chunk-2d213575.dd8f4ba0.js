@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d213575"],{abec:function(n,a,t){"use strict";t.r(a);var o=t("7a23");function e(n,a,t,e,r,i){var s=Object(o["w"])("CardsContainer");return Object(o["p"])(),Object(o["d"])(s,{"data-link":n.dataLink},null,8,["data-link"])}var r=t("6136"),i={name:"Logos",components:{CardsContainer:r["a"]},data:function(){return{dataLink:"https://raw.githubusercontent.com/vladap99/json-infos/main/logos.json"}}};i.render=e;a["default"]=i}}]);
+//# sourceMappingURL=chunk-2d213575.dd8f4ba0.js.map
